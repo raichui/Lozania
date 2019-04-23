@@ -1,5 +1,6 @@
 # Lozania
 programa para calculo de valores, se desea hacer un exe del mismo para windows y android
+
 Public Class Shelly1
     Private Sub Calcular_Click(sender As Object, e As EventArgs) Handles Calcular.Click
 
